@@ -1,0 +1,8 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/std@0.191.0/async/deferred.ts": "42790112f36a75a57db4a96d33974a936deb7b04d25c6084a9fa8a49f135def8",
+    "https://deno.land/std@0.191.0/streams/merge_readable_streams.ts": "dc2db0cbf1b14d999aa2aa2a2a1ba24ce58953878f29845ed9319321d0a01fab",
+    "https://deno.land/std@0.191.0/streams/to_transform_stream.ts": "7f55fc0b14cf3ed0f8d10d8f41d05bdc40726e44a65c37f58705d10a615f0159"
+  }
+}
